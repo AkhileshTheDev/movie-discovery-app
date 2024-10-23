@@ -1,0 +1,14 @@
+{
+  "login" : "Login",
+  "mobileNumber": "Mobile Number",
+  "sendOtp": "SEND OTP",
+  "mobileBlank":"Mobile Number Is blank",
+  "mobileError":"Please Enter Valid Mobile Number",
+  "otp": "Enter OTP",
+  "NumberOpt": "Sent OTP To",
+  "otpBlank": "Please Enter OTP",
+  "otpError":"Please Enter Valid OTP",
+  "changeNumber": "Change Number?",
+  "userProfile": "User Profile",
+  "noAlbumFound": "No Album Found"
+}
